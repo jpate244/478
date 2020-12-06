@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClipServer</string>
+    <string name="client_pkg">package com.example.audioclient</string>
+    <string name="client_cls">package com.example.audioclient.MainActivity</string>
+</resources>
